@@ -1,0 +1,5 @@
+menu="***************************BENVINGUT***************************"
+opcio1="Per llegir un csv existent introdueix 1"
+opcio2="Per afegir informacio en un csv introdueix 2:  "
+introdueix="introdueix el nom del ficher:  "
+introdueix_text="introdueix el text que vols"
